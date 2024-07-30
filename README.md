@@ -1,0 +1,1 @@
+# Array__Take-an-array-of-numbers-as-input-and-check-if-it-is-an-array-sorted-in-ascending-order
